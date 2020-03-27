@@ -1,5 +1,5 @@
 -- roznia sie tym ze nie musza byc paramety wejscia i wyjscia
--- funkcja zwraca wartosc w jednym z typow
+-- funkcja zwraca wartosc w jednym  z  typow
 drop function if exists Brutto_netto;
 drop function if exists fn_daty;
 
